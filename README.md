@@ -1,5 +1,5 @@
 # 🔥 Wildfire Propagation Modeling with CNNs and Transformers
-
+test
 This project explores deep learning approaches for predicting wildfire spread across geospatial regions using satellite data. The primary goal was to compare the performance of a **Convolutional Autoencoder** and a **SegFormer transformer model** to determine whether transformer-based architectures are better suited for capturing complex spatial patterns in wildfire propagation.
 
 All experiments were logged and visualized using [Weights & Biases (WandB)](https://wandb.ai), and the models were trained using NVIDIA A100 GPUs on Lambda Labs cloud instances.
